@@ -36,7 +36,6 @@ function App() {
   };
   return (
     <>
-      {console.log(dataModel)}
       <main>
         <div className="container">
           <h1 className="title">AI Object Detection Using TensorFlow</h1>
